@@ -1,0 +1,8 @@
+output/
+viettrack.log
+config/api_keys.json
+config/telegram.json
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
